@@ -1,12 +1,10 @@
-Here's a professional **README.md** for your new AI Productivity project built with **Lovable**.
-
-# 🤖 AI-Powered Workplace Productivity Assistant
+# 🤖 AI Workplace Productivity Assistant
 
 ## 📌 Project Overview
 
-The **AI-Powered Workplace Productivity Assistant** is a modern web application designed to improve workplace efficiency using Artificial Intelligence. It helps users complete common office tasks faster by generating professional emails, planning daily tasks, summarizing meeting notes, researching topics, and answering workplace questions through an AI chatbot.
+The **AI Workplace Productivity Assistant** is a web application designed to improve workplace productivity using Artificial Intelligence concepts. It helps users complete everyday office tasks more efficiently through three main features: a Smart Email Generator, an AI Task Planner, and a Meeting Notes Summarizer.
 
-This project demonstrates practical AI concepts, prompt engineering, responsive web design, and responsible AI practices.
+This project demonstrates prompt engineering, responsive web design, and responsible AI practices.
 
 ---
 
@@ -14,54 +12,29 @@ This project demonstrates practical AI concepts, prompt engineering, responsive 
 
 ### 📧 Smart Email Generator
 
-Generate professional emails from a short description.
+Generate professional emails based on a user's request.
 
-* Professional subject lines
-* Formal greetings
-* Well-structured email body
+* Professional subject line
+* Formal greeting
+* Clear email body
 * Professional closing
 
 ### ✅ AI Task Planner
 
-Organize daily work with AI.
+Organize daily work into a structured task plan.
 
-* High priority tasks
-* Medium priority tasks
-* Low priority tasks
-* Suggested daily schedule
-* Estimated completion time
+* Prioritize important tasks
+* Create a daily schedule
+* Improve productivity
 
 ### 📝 Meeting Notes Summarizer
 
-Convert meeting notes into an easy-to-read summary.
+Convert meeting notes into a clear summary.
 
+* Meeting summary
 * Key discussion points
 * Action items
-* Assigned responsibilities
-* Meeting summary
-* Next meeting reminder
-
-### 🔍 AI Research Assistant
-
-Quickly organize research topics.
-
-* Topic overview
-* Important keywords
-* Key points
-* Suggested resources
-* Research tips
-
-### 🤖 Workplace AI Chatbot
-
-Ask workplace-related questions and receive helpful responses.
-
-Example topics include:
-
-* Productivity
-* Professional communication
-* Time management
-* Team collaboration
-* Workplace best practices
+* Responsibilities
 
 ---
 
@@ -70,7 +43,6 @@ Example topics include:
 * HTML5
 * CSS3
 * JavaScript
-* Lovable AI
 * Git
 * GitHub
 * Visual Studio Code
@@ -79,28 +51,21 @@ Example topics include:
 
 ## 🤖 AI Tools Used
 
-This project was developed with the assistance of AI tools, including:
-
 * ChatGPT
 * Google Gemini
 * Lovable AI
-* Notion AI
 
-These tools were used for brainstorming ideas, prompt engineering, content generation, UI design, and improving productivity.
+These AI tools were used for brainstorming ideas, improving prompts, generating content, and designing the project.
 
 ---
 
 ## 💡 Prompt Engineering
 
-Prompt engineering was used to generate high-quality AI responses.
-
-Example prompts include:
+Example prompts used:
 
 * Generate a professional workplace email.
-* Summarize meeting notes into action items.
-* Create a daily task plan based on priorities.
-* Explain a research topic in simple language.
-* Answer workplace productivity questions professionally.
+* Create a daily task plan from the following tasks.
+* Summarize these meeting notes into key points and action items.
 
 ---
 
@@ -110,18 +75,17 @@ This project promotes responsible AI by encouraging users to:
 
 * Review AI-generated content before using it.
 * Verify important information.
-* Protect personal and confidential data.
-* Avoid relying entirely on AI for important decisions.
+* Protect personal data.
 * Use AI ethically and responsibly.
 
 ---
 
 ## 🚀 How to Run the Project
 
-1. Clone the repository:
+1. Clone the repository.
 
 ```bash
-git clone https://github.com/happi1masia-pixel/AI-Productivity-Assistant.git
+git clone https://github.com/happi1masia-pixel/AI-Workplace-Productivity-Assistant.git
 ```
 
 2. Open the project in Visual Studio Code.
@@ -133,7 +97,7 @@ git clone https://github.com/happi1masia-pixel/AI-Productivity-Assistant.git
 ## 📂 Project Structure
 
 ```text
-AI-Productivity-Assistant/
+AI-Workplace-Productivity-Assistant/
 │
 ├── index.html
 ├── style.css
@@ -145,9 +109,7 @@ AI-Productivity-Assistant/
         ├── homepage.png
         ├── email-generator.png
         ├── task-planner.png
-        ├── meeting-summary.png
-        ├── research-assistant.png
-        └── chatbot.png
+        └── meeting-summary.png
 ```
 
 ---
@@ -170,29 +132,15 @@ AI-Productivity-Assistant/
 
 ![Meeting Summary](assets/images/meeting-summary.png)
 
-### Research Assistant
-
-![Research Assistant](assets/images/research-assistant.png)
-
-### AI Chatbot
-
-![Chatbot](assets/images/chatbot.png)
-
 ---
 
 ## 🎯 Future Improvements
 
-Future versions of this project may include:
-
 * OpenAI API integration
-* Google Gemini API integration
 * User authentication
-* Cloud database support
-* Voice assistant
-* File upload support
-* Export summaries as PDF
+* Cloud database
+* Voice input
 * Dark mode
-* Calendar integration
 * Mobile application
 
 ---
@@ -201,12 +149,10 @@ Future versions of this project may include:
 
 **Happiness Lethabo Masia**
 
-AI Skills Accelerator Programme
-
 GitHub: [https://github.com/happi1masia-pixel](https://github.com/happi1masia-pixel)
 
 ---
 
 ## 📄 License
 
-This project is for educational purposes and demonstrates AI-powered workplace productivity solutions using modern web technologies.
+This project is for educational purposes and demonstrates AI-powered workplace productivity solutions.
